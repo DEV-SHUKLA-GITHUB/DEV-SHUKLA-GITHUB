@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-shukla-github" alt="dev-shukla-github" /></a> </p>
 
-- 🔭 I’m currently working on **Degen Scalper**
+- 🔭 I’m currently working on **Resume Builder**
 
 - 🌱 I’m currently learning **Frontend,Backend and DSA**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://dev-portfolio1212.netlify.app/](https://dev-portfolio1212.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dev-portfolio-121212.netlify.app/](https://dev-portfolio-121212.netlify.app/)
 
 - 💬 Ask me about **React**
 
@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-shukla-34036619b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-shukla-34036619b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
